@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "understanding-react-hooks",
+    "title": "Understanding React Hooks",
+    "date": "2023-06-15",
+    "excerpt": "A deep dive into React Hooks and how they can simplify your code."
+  },
+  {
+    "slug": "mastering-css-grid",
+    "title": "Mastering CSS Grid",
+    "date": "2023-05-10",
+    "excerpt": "Learn how to create complex layouts with CSS Grid."
+  },
+  {
+    "slug": "react-server-components",
+    "title": "React Server Components",
+    "date": "2022-12-25",
+    "excerpt": "Exploring the future of React with Server Components."
+  }
+]
